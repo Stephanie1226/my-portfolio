@@ -36,7 +36,7 @@
       {
         "school":"University of Alberta",
         "location":"Edmonton, AB, Canada",
-        "degree":"• M.Eng. in ECE (Software Engineering & Intelligent Systems)",
+        "degree":"• M.Eng. in Software Engineering & Intelligent Systems (ECE Dept.)",
         "graduated":"Sep. 2018 - Apr. 2020",
         "description":"I've taken multiple Software Engineering and Machine learning courses at school as well as taken online web development courses on Udemy on my own time."
       },
@@ -72,18 +72,22 @@
       },
       {
         "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5 / CSS",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs / Redux",
         "level":"75%"
       },
       {
-        "name":"ReactJs",
-        "level":"70%"
+        "name":"Nodejs / Expressjs / Flask (Python)",
+        "level":"65%"
       },
       {
-        "name":"HTML5",
-        "level":"70%"
-      },
-      {
-        "name":"CSS",
+        "name":"MySQL / MongoDB",
         "level":"65%"
       },
       {
@@ -93,6 +97,10 @@
       {
         "name":"Matlab",
         "level":"60%"
+      },
+      {
+        "name":"Machine Learnng / Deep Learning",
+        "level":"75%"
       }
     ]
   },
