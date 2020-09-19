@@ -76,7 +76,7 @@ class Portfolio extends Component {
 
         <div className="row">
            <div className="twelve columns collapsed">
-              <h2>Check Out Some of the Software Engineering Realated courses/project I took.</h2>
+              <h2>Check Out Some of the Software Engineering Realated courses/project I took before.</h2>
               <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                   {projects}
               </div>

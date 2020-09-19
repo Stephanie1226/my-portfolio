@@ -16,7 +16,7 @@
       "zip": "T2R 0N3"
     },
     "website": "https://chiehwang.page.link/cw20",
-    "resumedownload":"https://drive.google.com/file/d/1OMYdYi94TnJsDE86FSK3P8oFnnyU7xeA/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1Jwx6cNWSgqYXWS4VEz87OMY0GRVi14um/view?usp=sharing",
     "social":[
       {
         "name":"linkedin",
@@ -133,15 +133,55 @@
     ],
     "mainprojects": [
       {
-        "title":"Music Search Engine",
+        "title":"Music Search Engine (Full Stack project)",
         "stitle":"Music Search Engine",
-        "skills":"Python, ReactJs, Redux, Neo4j, Flask API",
+        "skills":"Python, ReactJs (Javascript, HTML, CSS), Redux, Neo4j, Flask API",
         "description":"This is a music search engine for searching and listening to related music. Me and my project partner scrap all of the music data from MusicBrainz and IMSLP, use Neo4j graph database to manage the data, and use Flask API to serve as backend, React to serve as frontend.",
         "image":"music_engine.png",
         "url":"https://github.com/Stephanie1226/music_search"
       },
       {
-        "title":"Socket Board Game - Hanabi",
+        "title":"Turtle Travel App (Full Stack project)",
+        "stitle":"Turtle Travel App",
+        "skills":"Flask, Python; ReactJs (Javascript, HTML, CSS), Rudux",
+        "description":"This is a fun App using Flask as backend and React as frontend. The turtle is set at (0, 0). Simply upload a .txt file which only includes R, L, F to plot the route on the web.",
+        "image":"turtle.png",
+        "url":"https://turtle-frontend.web.app/"
+      },
+      {
+        "title":"Search Profile App (Frontend project)",
+        "stitle":"Search Profile App",
+        "skills":"ReactJs (Javascript, HTML, CSS), Redux",
+        "description":"This is a frontend project which fetch the data from an api and get the json data displayed on the website. It is desinged to display each student's information, scores, and average score when expanding(+) the info section. You can simply use the search bar to filter out the target student",
+        "image":"search-profiles.png",
+        "url":"https://search-profiles-fa7de.web.app"
+      },
+      {
+        "title":"LA Interactive Website (Ongoing Frontend project)",
+        "stitle":"LA Interactive Website",
+        "skills":"ReactJs (Javascript, HTML, CSS)",
+        "description":"This is a ongoing frontend website building for a Calgary small fitness training business - LA interactive. This is an ongoing project and it is expected to be finished at the end of October 2020.",
+        "image":"la-interactive.png",
+        "url":"https://github.com/Stephanie1226/la-interactive"
+      },
+      {
+        "title":"Task Manafer Api (Backend project)",
+        "stitle":"Task app",
+        "skills":"Javascript, Nodejs, Expressjs, MongoDB",
+        "description":"This is a REST api for manage task for each user. The production api is hosting on Heroku with the following link: https://chieh-task-manager.herokuapp.com/.",
+        "image":"task-app.png",
+        "url":"https://github.com/Stephanie1226/node-task-manager-api"
+      },
+      {
+        "title":"Recipe App (Ongoing Full Stack project)",
+        "stitle":"Recipe App",
+        "skills":"ReactJs, Javascript, Nodejs, Expressjs, MongoDB",
+        "description":"This is an ongoing project designed to manage recipes for the users. The user and recipes are stored in MongoDB. Backend REST api is now hosted on Heroku. Frontend is using Reactjs and it's not yet finished. It is expected to be finished in the middle of October 2020.",
+        "image":"recipe-app.png",
+        "url":"https://github.com/Stephanie1226/node-task-manager-api"
+      },
+      {
+        "title":"Socket Board Game - Hanabi (Socket programming)",
         "stitle":"Socket Board Game",
         "skills":"C/C++, Socket API",
         "description":"Applied Socket API to program a self-designed 4-player online game. The rules of this board game is following the original Hanabi card game. Players connected to the server using IP address through Socket API. Server listens on the socket and waits for client (players) requests (sny changes with the cards).",
@@ -155,14 +195,6 @@
         "description":"Applied traditional Machine Learning algorithm (HOG-SVM, Haar Cascade) and Deep Learning algorithm (Faster-RCNN) in human detection. Analized and compared the results between traditional Machine Learning algorithm and Deep Learning algorithm.",
         "image":"undergrad-project.png",
         "url":"https://sites.google.com/mm.fju.edu.tw/swd-deeplearning/首頁?authuser=3"
-      },
-      {
-        "title":"Turtle Travel App",
-        "stitle":"Turtle Travel App",
-        "skills":"Flask, Python; ReactJs, Javascript, HTML, CSS",
-        "description":"A fun App useing Flask as backend and React as frontend.",
-        "image":"turtle.png",
-        "url":"https://github.com/Stephanie1226/turtle-travel"
       }
     ]
   },
