@@ -1,7 +1,7 @@
 # personalportfolio
 ## Credits
 ### Original Designer
-Tim Baker: (Link to gitHub repo) https://github.com/tbakerx/react-resume-template
+<a href="https://github.com/tbakerx">Tim Baker</a>: (Link to gitHub repo) https://github.com/tbakerx/react-resume-template
 
 #### HTML Design Template
 <a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
