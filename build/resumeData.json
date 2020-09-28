@@ -178,7 +178,7 @@
         "skills":"ReactJs, Javascript, Nodejs, Expressjs, MongoDB",
         "description":"This is an ongoing project designed to manage recipes for the users. The user and recipes are stored in MongoDB. Backend REST api is now hosted on Heroku. Frontend is using Reactjs and it's not yet finished. It is expected to be finished in the middle of October 2020.",
         "image":"recipe-app.png",
-        "url":"https://github.com/Stephanie1226/node-task-manager-api"
+        "url":"https://github.com/Stephanie1226/node-recipe-api"
       },
       {
         "title":"Socket Board Game - Hanabi (Socket programming)",

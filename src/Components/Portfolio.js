@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Button from 'react-bootstrap/Button';
 
 class Portfolio extends Component {
   render() {
@@ -44,9 +45,16 @@ class Portfolio extends Component {
       var mainprojects_details = this.props.data.mainprojects.map(function(mainprojects){
         return( 
           <div key={mainprojects.title}>
-            <h3>{mainprojects.title}</h3>
+            <h3>
+              <a style={{color: "#313131"}} href={`${mainprojects.url}`}>{mainprojects.title}</a>
+            </h3>
             <p className="info">Programming language/Platform utilized: {mainprojects.skills}</p>
             <p>{mainprojects.description}</p>
+            <div style={{display:"flex", alignItems:"center", justifyContent:"center", marginBottom:"25px"}}>
+              <Button type="button">
+                <a style={{color: "white"}} href={`${mainprojects.source_code}`}>View Source Code</a>
+              </Button>
+            </div>
           </div>
         );
       })
@@ -71,7 +79,6 @@ class Portfolio extends Component {
             </div>
           </div>
         </div>
-
         <hr />
 
         <div className="row">

@@ -505,6 +505,17 @@ input[type="button"]:active {
    color: #fff;
 }
 
+.button:focus,
+button:focus,
+input[type="submit"]:active,
+input[type="reset"]:active,
+input[type="button"]:active {
+   background: #3d4145;
+   color: #fff;
+   outline: none;
+   border: none;
+}
+
 .button.full-width,
 button.full-width,
 input[type="submit"].full-width,
