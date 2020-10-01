@@ -136,7 +136,7 @@
         "title":"E-commerce website (Frontend Project)",
         "stitle":"E-commerce websit",
         "skills":"ReactJs (Jsx, Javascript, HTML, Sass), Redux, Firebase",
-        "description":"Applied traditional Machine Learning algorithm (HOG-SVM, Haar Cascade) and Deep Learning algorithm (Faster-RCNN) in human detection. Analized and compared the results between traditional Machine Learning algorithm and Deep Learning algorithm.",
+        "description":"This is an e-commerce project just like a legit clothing shopping website, allowing users to login, shop with their favorite clothings, add items to their bag, and checkout with credit cards. The features include allowing sign in with google, add/remove item's amount in shopping bag, and also use a test credit card to checkout.",
         "image":"e-commerce.png",
         "url":"https://chieh-s-clothing-ltd.herokuapp.com/",
         "source_code":"https://github.com/Stephanie1226/e-commerce-project"
