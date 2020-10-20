@@ -133,6 +133,15 @@
     ],
     "mainprojects": [
       {
+        "title":"Recipe Website (Full Stack project)",
+        "stitle":"Recipe Website",
+        "skills":"Frontend: Javascript, ReactJs, Redux; Backend: Nodejs, Expressjs, MongoDB",
+        "description":"This is a recipe website for users to check on other's recipes and add their own recipes (as public recipe or private recipe). The website allows user to sign up/sign in, create/edit/delete their own recipes, share their recipes to world by setting it to public recipe. Backend technologies include MongoDB database and Nodejs/Expressjs, and nodejs script is hosting on heroku. React/Redux/React-router/Bootstrap...etc. are used in Frontend.",
+        "image":"recipe-app.jpg",
+        "url":"https://my-secret-recipes.herokuapp.com/",
+        "source_code":"https://github.com/Stephanie1226/react-recipe-app"
+      },
+      {
         "title":"E-commerce website (Frontend Project)",
         "stitle":"E-commerce websit",
         "skills":"ReactJs (Jsx, Javascript, HTML, Sass), Redux, Firebase",
@@ -185,15 +194,6 @@
         "image":"task-app.png",
         "url":"https://github.com/Stephanie1226/node-task-manager-api",
         "source_code":"https://github.com/Stephanie1226/node-task-manager-api"
-      },
-      {
-        "title":"Recipe App (Ongoing Full Stack project)",
-        "stitle":"Recipe App",
-        "skills":"ReactJs, Javascript, Nodejs, Expressjs, MongoDB",
-        "description":"This is an ongoing project designed to manage recipes for the users. The user and recipes are stored in MongoDB. Backend REST api is now hosted on Heroku. Frontend is using Reactjs and it's not yet finished. It is expected to be finished in the middle of October 2020.",
-        "image":"recipe-app.png",
-        "url":"https://github.com/Stephanie1226/node-recipe-api",
-        "source_code":"https://github.com/Stephanie1226/node-recipe-api"
       },
       {
         "title":"Socket Board Game - Hanabi (Socket programming)",
